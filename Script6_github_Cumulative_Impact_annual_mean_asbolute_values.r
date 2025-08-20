@@ -1,13 +1,13 @@
-#-----------------------------------------------------------------------#
-#         SCRIPT 6                                            
-#         CUMULATIVE IMPACTS
-#         Based on annual mean absolute values
-#         BLACK SEA
-#         SURFACE DATA (Yearly matrix as input)
-#         03/02/2025
-#         Script by Lucia Espasandin, Fran Ramirez and Elena Lloret
-#                                                            
-#--------------------------------------------------------------------#
+#------------------------------------------------------------ #
+#   Comparing methodological choices for environmental cumulative impacts analysis: The Black Sea as a case study
+#   SCRIPT 6                                            
+#   CUMULATIVE IMPACTS
+#   Based on annual mean absolute values
+#   BLACK SEA
+#   SURFACE DATA (Yearly matrix as input)
+#   Authors: Lucia Espasandin, Fran Ramirez and Elena Lloret-Lloret
+#   Last update: 20/08/2025                                                         
+#------------------------------------------------------------ #
 
 # AIM OF THE SCRIPT
 

@@ -1,11 +1,11 @@
-# =============================================================== #
-#   Unpacking cumulative impacts: exploring methodological choices for marine ecosystem analysis #
-#   Supplementary material
-#   Script 4- 
+# ------------------------------------------------------------ #
+#   Comparing methodological choices for environmental cumulative impacts analysis: The Black Sea as a case study
+#   Script 4
 #   Pre-process: Prepare input data
 #   Vertically integrated data MEAN- Using 1m interpolation
-#   31/01/2025
-# =============================================================== # 
+#   Authors: Elena Lloret-Lloret, Camila Artana and Sorin Constantin
+#   Last update: 20/08/2025
+# ------------------------------------------------------------ # 
 
 #AIM OF THE SCRIPT
 
